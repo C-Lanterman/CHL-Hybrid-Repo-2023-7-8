@@ -1,6 +1,6 @@
 # gridpane-wordpress-hybrid-template
 
-This repo is an example of a repo configured for Hybrid deployment
+*This repo is an example of a repo configured for Hybrid deployment*
 
 This means that only the contents of the following directories are going to be deployed:
 ```
